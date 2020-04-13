@@ -1,0 +1,30 @@
+p {
+  font-size: 20px;
+}
+@media (max-width: 1200px) {
+  p {
+    font-size: 40px
+  }
+}
+
+.panel{
+  width: 20vw;
+  height: 100vw;
+  background-color: red;
+  position: absolute;
+}
+.nav {
+  width: 80vw;
+  height: 10vw;
+  background-color: yellow;
+  padding-left: 20vw;
+}
+
+.chart {
+  width: 80vw;
+  height: 40vw;
+  background-color: blue;
+  padding-left: 20vw;
+  margin-bottom: 20px;
+
+}
